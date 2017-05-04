@@ -40,6 +40,6 @@ func main() {
 	})
 
 	// Start serving the application
-	router.Run(":5000")
+	router.Run()
 
 }
