@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GwordAPI&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../GoWeb" />
+      <root url="file://$PROJECT_DIR$/../GoWeb3" />
+      <root url="file://$PROJECT_DIR$/../GoWeb2" />
+      <root url="file://$PROJECT_DIR$/../GoTest2" />
+      <root url="file://$PROJECT_DIR$/../GoTest" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../GoWeb" />
+      <root url="file://$PROJECT_DIR$/../GoWeb3" />
+      <root url="file://$PROJECT_DIR$/../GoWeb2" />
+      <root url="file://$PROJECT_DIR$/../GoTest2" />
+      <root url="file://$PROJECT_DIR$/../GoTest" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
