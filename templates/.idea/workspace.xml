@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b23ef3d-634a-4c9a-bec9-32d84faecffb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-    </list>
+    <list default="true" id="5b23ef3d-634a-4c9a-bec9-32d84faecffb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -38,7 +36,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="-3084">
               <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <marker date="1494702539529" expanded="true" signature="723:729" ph=" " />
@@ -249,12 +247,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494073552550</updated>
       <workItem from="1494073553992" duration="79943000" />
-      <workItem from="1494700465720" duration="1559000" />
+      <workItem from="1494700465720" duration="2229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81502000" />
+    <option name="totallyTimeSpent" value="82172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
@@ -379,7 +377,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="-3084">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <marker date="1494702539529" expanded="true" signature="723:729" ph=" " />
