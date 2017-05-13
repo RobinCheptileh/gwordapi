@@ -1,7 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed4202f4-9b65-487f-af96-0fc2d18909a9" name="Default" comment="" />
+    <list default="true" id="ed4202f4-9b65-487f-af96-0fc2d18909a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dictionary.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/.idea/dictionaries/Robin_Cheptileh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/latofonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/latostyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/gopher.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/what-input.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__GwordAPI_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__GwordAPI_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,25 +151,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state relative-caret-position="856">
+              <caret line="109" column="33" lean-forward="false" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
               <folding>
-                <element signature="e#14#77#0" expanded="true" />
+                <element signature="e#14#130#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -50,6 +173,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -92,9 +218,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -107,22 +232,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GwordAPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GwordAPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,8 +247,15 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="Go Single File.go run main.go">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robin Cheptileh\go\src\GwordAPI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Application.Run Application Package">
     <configuration default="false" name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GwordAPI" />
       <working_directory value="$PROJECT_DIR$" />
@@ -400,6 +519,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -558,6 +678,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -603,8 +729,17 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
+    <configuration default="false" name="Run Application Package" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="GwordAPI" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="GwordAPI" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Go Application.Run Application Package" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -627,45 +762,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493925456473</updated>
-      <workItem from="1493925471976" duration="4037000" />
+      <workItem from="1493925471976" duration="5147000" />
+      <workItem from="1494175305640" duration="46914000" />
+      <workItem from="1494698635344" duration="744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4037000" />
+    <option name="totallyTimeSpent" value="52805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25716332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,11 +816,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -691,16 +840,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/Godeps/Godeps.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Godeps/Readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="95" column="14" lean-forward="false" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/gorilla/websocket/examples/echo/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="79774" column="5" lean-forward="false" selection-start-line="79774" selection-start-column="5" selection-end-line="79774" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="856">
+          <caret line="109" column="33" lean-forward="false" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
           <folding>
-            <element signature="e#14#77#0" expanded="true" />
+            <element signature="e#14#130#0" expanded="true" />
           </folding>
         </state>
       </provider>

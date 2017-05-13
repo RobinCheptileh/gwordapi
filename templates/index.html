@@ -1,13 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{.title}}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gword API</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="css/foundation.min.css">
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+
+    <!-- FONTS -->
+    <link rel="stylesheet" type="text/css" href="fonts/latofonts.css">
+    <link rel="stylesheet" type="text/css" href="fonts/latostyle.css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 </head>
 <body>
-    <h1>Hello {{.name}}</h1>
-    <br>
-    <h3>{{.content}}</h3>
+    <div id="header">
+        <div class="title">
+            <i class="icon fa fa-ravelry"></i><span class="gword">Gword</span><sup><span class="api">api</span></sup>
+        </div>
+    </div>
+
+    <div class="row">
+        <form id="the-form" class="small-12 column">
+            <div class="small-12 medium-6 large-6 column">
+                <div class="input-group">
+                    <div class="input-group-label">
+                        <span data-tooltip aria-haspopup="true" class="has-tip top" data-disable-hover="false" title="Tooltip title">
+                            <i class="fa fa-keyboard-o"></i>
+                        </span>
+                    </div>
+                    <input type="text" id="letters" placeholder="The letters" required>
+                </div>
+            </div>
+            <div class="small-12 medium-6 large-6 column">
+                <div class="input-group">
+                    <div class="input-group-label">
+                        <span data-tooltip aria-haspopup="true" class="has-tip top" data-disable-hover="false" title="Tooltip title">
+                            <i class="fa fa-crosshairs"></i>
+                        </span>
+                    </div>
+                    <input type="number" id="limit" placeholder="The limit" required>
+                </div>
+            </div>
+            <div class="small-12 column">
+                <button type="submit" class="generate small-12 medium-6 large-6 column small-centered medium-centered large-centered button"><i class="fa fa-cogs"></i>&nbsp;generate!</button>
+            </div>
+
+            <div id="response" class="small-12 column"></div>
+            <div id="temp-stop" class="small-12 column"></div>
+        </form>
+    </div>
+
+    <div class="row">
+        <div class="separator"></div>
+    </div>
+
+    <div id="content" class="row small-centered medium-centered large-centered">
+        <img src="img/gopher.svg" class="small-centered medium-centered large-centered">
+        <div id="synopsis">synopsis</div>
+        <div class="small-12 medium-6 large-6 column item">
+            <div class="desc-icon small-centered medium-centered large-centered">
+                <i class="fa fa-ravelry"></i><br>
+            </div>
+            <span class="content-title">site</span>
+            <p class="content-text">
+                Some text some text some text some text some text some text some text some text some text some text
+            </p>
+        </div>
+
+        <div class="small-12 medium-6 large-6 column item">
+            <div class="desc-icon small-centered medium-centered large-centered">
+                <i class="fa fa-bolt"></i><br>
+            </div>
+            <span class="content-title">API</span>
+            <p class="content-text">
+                Some text some text some text some text some text some text some text some text some text some text
+            </p>
+        </div>
+    </div>
+
+    <div id="footer">
+        <div class="footer-github small-4 column">
+            <div class="footer-cont small-centered medium-centered large-centered">
+                <span class="find">find the source code on</span><br>
+                <a href="#" class="git button">
+                    <i class="fa fa-github"></i> &nbsp;github
+                </a><br>
+                <span class="me">{{.name}}</span>
+            </div>
+        </div>
+        <div class="footer-github small-4 column">
+            <div class="footer-cont">
+                <a href="https://www.cognition.co.ke" class="cognition" target="_blank">Cognition Solutions</a><br>
+                <span class="copy">&copy;&nbsp;{{.year}} all rights reserved</span>
+            </div>
+        </div>
+        <div class="footer-github small-4 column">
+            <div class="footer-cont">
+                <div class="footer-icon">
+                    <i class="fa fa-ravelry"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS -->
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/velocity.min.js"></script>
+    <script src="js/velocity.ui.min.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.min.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>

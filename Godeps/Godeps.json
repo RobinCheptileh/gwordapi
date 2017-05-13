@@ -23,6 +23,11 @@
 			"Rev": "18c9bb3261723cd5401db4d0c9fbc5c3b6c70fe8"
 		},
 		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.1.0-29-ga91eba7",
+			"Rev": "a91eba7f97777409bc2c443f5534d41dd20c5720"
+		},
+		{
 			"ImportPath": "github.com/manucorporat/sse",
 			"Rev": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d"
 		},

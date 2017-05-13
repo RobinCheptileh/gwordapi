@@ -1,0 +1,324 @@
+body{
+    font-family: LatoWeb, sans-serif;
+}
+
+input[type="text"], input[type="number"]{
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    height: 2.4375rem;
+    margin: 0;
+    padding: 0.5rem;
+    border: 1px solid #cacaca;
+    border-radius: 0;
+    background-color: #fefefe;
+    box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: normal;
+    color: #0a0a0a;
+    transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+input[type="text"]:focus, input[type="number"]:focus{
+    outline: none;
+    border: 1px solid #0e929b;
+    background-color: #fefefe;
+    box-shadow: 0 0 5px #0e929b;
+    transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
+}
+
+.separator{
+    width: 100%;
+    margin-top: 50px;
+    border-bottom: 1px solid rgba(14, 146, 155, 0.5);
+}
+
+.notification{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #00252b;
+    color: #ffffff;
+    font-family: LatoWebBold, sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    transition: all 0.3s ease-in-out
+}
+
+.notification:hover{
+    background-color: #ffffff;
+    color: #00373e;
+}
+
+#header{
+    margin-bottom: 40px;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title{
+    font-size: 100px;
+    height: auto;
+    margin: 150px 20px;
+}
+
+.icon{
+    color: #0e929b;
+    transition: all 0.3s ease-in-out;
+}
+
+.icon:hover{
+    transform: rotate(-360deg);
+}
+
+.gword{
+    font-family: LatoWebHairline, sans-serif;
+    color: #ffffff;
+}
+
+.api{
+    font-family: LatoWebThin, sans-serif;
+    font-size: 50px;
+    color: #0eb3bc;
+}
+
+#the-form{
+    margin: auto;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+.input-group-label{
+    font-size: 20px;
+    color: #0e929b;
+}
+
+.tooltip{
+    font-family: LatoWebLight, sans-serif;
+    font-size: 12px;
+    background-color: #0e929b;
+    color: #ffffff;
+}
+
+.has-tip{
+    border: none;
+}
+
+.generate, .generate:focus{
+    display: block;
+    margin: 20px auto;
+    background-color: #0e929b;
+    border-radius: 2px;
+    font-family: LatoWebLight, sans-serif;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out
+}
+
+.generate:hover{
+    background-color: #ffffff;
+    border: 1px solid #0e929b;
+    color: #0e929b;
+}
+
+.stop, .stop:focus{
+    display: block;
+    margin: 20px auto;
+    background-color: #9b001f;
+    border-radius: 2px;
+    font-family: LatoWebLight, sans-serif;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out
+}
+
+.stop:hover{
+    background-color: #ffffff;
+    border: 1px solid #9b001f;
+    color: #9b001f;
+}
+
+.word-container{
+    margin: 2px auto;
+    text-align: left;
+}
+
+.word-item{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: auto;
+    overflow: hidden;
+    background-color: #ffffff;
+    border: 1px solid rgba(14, 146, 155, 0.3);
+    border-radius: 2px;
+    color: #5a5a5a;
+    font-family: LatoWeb, sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out
+}
+
+.word-item:hover{
+    background-color: #0e929b;
+    color: #ffffff;
+    transform: scale(1.05, 1.05);
+}
+
+#content{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #5a5a5a;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+#content img{
+    opacity: 0.08;
+    margin-top: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    height: auto;
+    z-index: -1;
+}
+
+#synopsis{
+    font-family: LatoWebSemibold, sans-serif;
+    font-size: 50px;
+    color: #0e929b;
+    text-transform: uppercase;
+    letter-spacing: -5px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+#synopsis:hover{
+    letter-spacing: 5px;
+}
+
+.item{
+    margin-bottom: 30px;
+}
+
+.desc-icon{
+    height: 100px;
+    width: 100px;
+    border: 5px solid #0e929b;
+    border-radius: 50%;
+    text-align: center;
+    padding: 18px 0;
+    text-transform: uppercase;
+    font-family: LatoWebLight, sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.desc-icon:hover{
+    background-color: #0e929b;
+    color: #ffffff;
+    transform: scale(1.1, 1.1);
+}
+
+.content-title{
+    font-family: LatoWebLight, sans-serif;
+    font-size: 30px;
+    color: #0e929b;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.content-text{
+    font-family: LatoWeb, sans-serif;
+    font-size: 15px;
+}
+
+#footer{
+    margin-top: 30px;
+    padding: 20px 0;
+    background: #0e929b;
+    color: #ffffff;
+    height: 230px;
+    text-align: center;
+}
+
+.footer-github{
+    height: 100%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.footer-cont{
+    width: 100%;
+}
+
+.cognition{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: LatoWebBold, sans-serif;
+    font-size: 30px;
+    transition: all 0.3s ease-in-out;
+}
+
+.cognition:hover, .cognition:focus, .cognition:active{
+    color: #fcac45;
+}
+
+.copy{
+    font-family: LatoWebLight, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-top: -5px;
+}
+
+.me{
+    font-family: LatoWebLight, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.find{
+    font-family: LatoWebLight, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.git{
+    margin-top: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 2px;
+    background-color: transparent;
+    color: #ffffff;
+    font-family: LatoWebLight, sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.git:hover, .git:focus, .git:active{
+    background-color: #ffffff;
+    color: #0e929b;
+}
+
+.footer-icon{
+    font-size: 90px;
+    color: #ffffff;
+}

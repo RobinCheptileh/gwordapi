@@ -6,6 +6,9 @@
       <root url="file://$PROJECT_DIR$/../GoWeb" />
       <root url="file://$PROJECT_DIR$/../GoWeb3" />
       <root url="file://$PROJECT_DIR$/../GoWeb2" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../GwordLocal" />
+      <root url="file://$PROJECT_DIR$/../GoRoutines" />
       <root url="file://$PROJECT_DIR$/../GoTest2" />
       <root url="file://$PROJECT_DIR$/../GoTest" />
     </CLASSES>
@@ -16,6 +19,9 @@
       <root url="file://$PROJECT_DIR$/../GoWeb" />
       <root url="file://$PROJECT_DIR$/../GoWeb3" />
       <root url="file://$PROJECT_DIR$/../GoWeb2" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../GwordLocal" />
+      <root url="file://$PROJECT_DIR$/../GoRoutines" />
       <root url="file://$PROJECT_DIR$/../GoTest2" />
       <root url="file://$PROJECT_DIR$/../GoTest" />
     </SOURCES>
