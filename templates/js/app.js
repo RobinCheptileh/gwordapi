@@ -212,6 +212,7 @@ function initWebSocket() {
                 }
             }
         }
+        return false;
     };
 
     socket.onclose = function () {
