@@ -2,138 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed4202f4-9b65-487f-af96-0fc2d18909a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Black.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BlackItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-BoldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Hairline.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HairlineItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Heavy.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-HeavyItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Italic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-LightItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-MediumItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Semibold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-SemiboldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/fonts/Lato-ThinItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dictionary.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/.idea/dictionaries/Robin_Cheptileh.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/latofonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fonts/latostyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/img/gopher.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/velocity.ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/vendor/what-input.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__GwordAPI_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__GwordAPI_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/.idea/workspace.xml" afterPath="$PROJECT_DIR$/templates/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/js/app.js" afterPath="$PROJECT_DIR$/templates/js/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,8 +26,8 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="856">
-              <caret line="109" column="33" lean-forward="false" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+            <state relative-caret-position="1114">
+              <caret line="193" column="19" lean-forward="false" selection-start-line="193" selection-start-column="19" selection-end-line="193" selection-end-column="19" />
               <folding>
                 <element signature="e#14#130#0" expanded="true" />
               </folding>
@@ -764,12 +635,12 @@
       <updated>1493925456473</updated>
       <workItem from="1493925471976" duration="5147000" />
       <workItem from="1494175305640" duration="46914000" />
-      <workItem from="1494698635344" duration="744000" />
+      <workItem from="1494698635344" duration="2084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52805000" />
+    <option name="totallyTimeSpent" value="54145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
@@ -881,8 +752,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="856">
-          <caret line="109" column="33" lean-forward="false" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+        <state relative-caret-position="1114">
+          <caret line="193" column="19" lean-forward="false" selection-start-line="193" selection-start-column="19" selection-end-line="193" selection-end-column="19" />
           <folding>
             <element signature="e#14#130#0" expanded="true" />
           </folding>
