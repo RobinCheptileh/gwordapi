@@ -3,7 +3,7 @@ $(document).foundation()
 var ws;
 //var url = "ws://localhost:5000/ws";
 //var url = "ws://192.168.137.1:5000/ws";
-var url = "ws://gwordapi.herokuapp.com";
+var url = "ws://gwordapi.herokuapp.com/ws";
 var enabled = false;
 var stop = false;
 var inProgress = false;
