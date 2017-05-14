@@ -1,4 +1,4 @@
-# gwordapi
+# Gword
 
 ## Synopsis
 
@@ -27,4 +27,4 @@ You guessed it, `4 Pics 1 Word` ofcourse! :stuck_out_tongue_winking_eye:
 ## Contributors
 
 * @RobinCheptileh
-* adhiambooyier
+* @adhiambooyier
