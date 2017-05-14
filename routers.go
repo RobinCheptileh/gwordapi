@@ -8,6 +8,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"time"
 	"github.com/gorilla/websocket"
+	"database/sql"
+	_ "github.com/mysql"
+	"strconv"
 )
 
 var wsupgrader = websocket.Upgrader{
@@ -19,6 +22,52 @@ type request struct {
 	Letters string
 	Limit int
 	Stop bool
+}
+
+type api_response struct {
+	Letters string
+	Limit int
+	Words []string
+	Found bool
+}
+
+const DSN  = "cognitio_robin:R+XNT?OTE4iBt;Z#;E@tcp(cognition.co.ke:3306)/cognitio_gword?charset=utf8"
+
+func apihandler(c *gin.Context){
+	//Connect to the database
+	db, err := sql.Open("mysql", DSN)
+	checkErr(err)
+	defer db.Close()
+
+	//Make sure the connection is available
+	err = db.Ping()
+	checkErr(err)
+
+	stop := make(chan bool)
+	found := false
+	typ := "api"
+	let := c.Query("letters")
+	lim, err := strconv.Atoi(c.Query("limit"))
+	checkErr(err)
+
+	req := request{let, lim, false}
+	words := apiWordGenerator(req, stop)
+
+	if len(words) > 0 {
+		found = true
+	}
+
+	api_resp := api_response{req.Letters, req.Limit, words, found}
+	// insert
+	stmt, err := db.Prepare("INSERT requests SET request_type=?,letters=?,letters_limit=?,found=?")
+	checkErr(err)
+	res, err := stmt.Exec(typ, let, lim, strconv.FormatBool(found))
+	checkErr(err)
+	id, err := res.LastInsertId()
+	checkErr(err)
+	fmt.Println(id)
+
+	c.JSON(http.StatusOK, api_resp)
 }
 
 func wshandler(w http.ResponseWriter, r *http.Request) {

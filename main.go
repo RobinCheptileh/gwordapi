@@ -30,6 +30,8 @@ func main() {
 		wshandler(c.Writer, c.Request)
 	})
 
+	router.GET("/api/v1/generate", apihandler)
+
 	// Start serving the application
 	router.Run()
 
