@@ -37,6 +37,11 @@
 			"Rev": "fc9e8d8ef48496124e79ae0df75490096eccf6fe"
 		},
 		{
+			"ImportPath": "github.com/mysql",
+			"Comment": "v1.3-14-gae5a66d",
+			"Rev": "ae5a66df4d33ba404d639bd0fc9189cd5ee79bcf"
+		},
+		{
 			"ImportPath": "golang.org/x/net/context",
 			"Rev": "feeb485667d1fdabe727840fe00adc22431bc86e"
 		},
