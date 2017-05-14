@@ -4,7 +4,7 @@
 
 Gword is a web app that generates all possible combinations of letters that make up an english word when provided by a set of letters and a limit. It is written in Go and utilizes Websockets.
 
-Find it on [Heroku](http://gwordapi.herokuapp.com/)
+See it in action on [Heroku](http://gwordapi.herokuapp.com/)
 
 ## Example
 
