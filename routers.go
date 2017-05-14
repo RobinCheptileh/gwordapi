@@ -25,13 +25,14 @@ type request struct {
 }
 
 type api_response struct {
-	Letters string
-	Limit int
-	Words []string
-	Found bool
+	Letters string `json:"letters"`
+	Limit int `json:"limit"`
+	Words []string `json:"words"`
+	Found bool `json:"found"`
 }
 
 const DSN  = "cognitio_robin:R+XNT?OTE4iBt;Z#;E@tcp(cognition.co.ke:3306)/cognitio_gword?charset=utf8"
+//const DSN  = "Robin:90210@tcp(robin.local:3306)/cognitio_gword?charset=utf8"
 
 func apihandler(c *gin.Context){
 	//Connect to the database
