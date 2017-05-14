@@ -216,13 +216,40 @@ function initWebSocket() {
     };
 
     socket.onclose = function () {
+        console.log("WebSocket closed");
+
+        var notification = $("<div>")
+            .attr({
+                class : "notification"
+            })
+            .html("<i class='fa fa-info-circle'></i>&nbsp; websocket closed")
+            .hide()
+            .velocity("transition.slideDownIn", {
+                duration : 200,
+                easing : "ease-in-out"
+            })
+            .velocity("transition.slideUpOut", {
+                delay : 2000,
+                duration : 200,
+                easing : "ease-in-out"
+            });
+        $("body").append(notification);
+
+        $letters.attr({
+            disabled : false
+        });
+        $limit.attr({
+            disabled : false
+        });
         $generate.removeClass("stop");
         $generate.addClass("generate");
         $generate.html("<i class='fa fa-cogs'></i>&nbsp;generate!");
         $temp_stop.children().remove();
 
+        count = 1;
+        scroll_count = 1;
+        scrolled = false;
         inProgress = false;
-        console.log("WebSocket closed");
     };
 
     return socket;
