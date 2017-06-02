@@ -143,7 +143,7 @@ function initWebSocket() {
                         delay : 2000,
                         duration : 200,
                         easing : "ease-in-out"
-                    });href="https://www.cognition.co.ke" class="cognition" target="_blank"
+                    });
             }else{
                 notification = $("<div>")
                     .attr({
