@@ -250,10 +250,12 @@ function initWebSocket() {
         scroll_count = 1;
         scrolled = false;
         inProgress = false;
-    
-        ws = initWebSocket();
-        console.log("WebSocket initiated");
-        enabled = true;
+
+        setTimeout(function () {
+            console.log("Retrying to connect");
+            ws = initWebSocket();
+            enabled = true;
+        }, 2000);
     };
 
     return socket;
