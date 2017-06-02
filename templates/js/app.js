@@ -1,6 +1,7 @@
 $(document).foundation()
 
 var ws;
+var rc;
 //var url = "ws://localhost:5000/ws";
 //var url = "ws://192.168.137.1:5000/ws";
 var url = "ws://gwordapi.herokuapp.com/ws";
@@ -113,6 +114,9 @@ function initWebSocket() {
 
     socket.onopen = function () {
         console.log("WebSocket ready");
+        if(rc){
+            clearTimeout(rc);
+        }
     };
 
     socket.onmessage = function (e) {
@@ -251,11 +255,13 @@ function initWebSocket() {
         scrolled = false;
         inProgress = false;
 
-        console.log("Retrying to connect");
-        setTimeout(function () {
-            ws = initWebSocket();
-            enabled = true;
-        }, 2000);
+        if(!rc){
+            console.log("Retrying to connect");
+            rc = setTimeout(function () {
+                ws = initWebSocket();
+                enabled = true;
+            }, 3000);
+        }
     };
 
     return socket;
