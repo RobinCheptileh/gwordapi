@@ -2,158 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b23ef3d-634a-4c9a-bec9-32d84faecffb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Go_SDK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/libraries/GOPATH__GwordAPI_.xml" afterPath="$PROJECT_DIR$/../.idea/libraries/GOPATH__GwordAPI_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GwordAPI.iml" afterPath="$PROJECT_DIR$/../GwordAPI.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dictionary.go" afterPath="$PROJECT_DIR$/../dictionary.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../main.go" afterPath="$PROJECT_DIR$/../main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../routers.go" afterPath="$PROJECT_DIR$/../routers.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Robin_Cheptileh.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Robin_Cheptileh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gopher.svg" afterPath="$PROJECT_DIR$/img/gopher.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/.gitignore" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/.travis.yml" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/AUTHORS.md" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/AUTHORS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/BENCHMARKS.md" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/BENCHMARKS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/CHANGELOG.md" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/LICENSE" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/README.md" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/auth.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/auth.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/binding.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/binding.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/default_validator.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/default_validator.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/form.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/form.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/form_mapping.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/form_mapping.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/json.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/json.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/protobuf.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/protobuf.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/xml.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/binding/xml.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/codecov.yml" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/codecov.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/context.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/context.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/debug.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/debug.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/deprecated.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/deprecated.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/errors.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/errors.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/fs.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/fs.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/gin.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/gin.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/logger.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/logger.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/mode.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/mode.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/path.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/path.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/recovery.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/recovery.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/data.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/data.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/html.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/html.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/json.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/json.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/redirect.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/redirect.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/render.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/render.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/text.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/text.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/xml.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/xml.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/yaml.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/render/yaml.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/response_writer.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/response_writer.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/routergroup.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/routergroup.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/tree.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/tree.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/utils.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gin-gonic/gin/utils.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/AUTHORS" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/AUTHORS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/CONTRIBUTORS" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/CONTRIBUTORS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/LICENSE" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/Makefile" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/clone.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/clone.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/decode.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/decode.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/encode.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/encode.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/equal.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/equal.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/extensions.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/extensions.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/lib.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/lib.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/message_set.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/message_set.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/pointer_reflect.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/pointer_reflect.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/properties.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/properties.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/text.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/text.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/text_parser.go" afterPath="$PROJECT_DIR$/../vendor/github.com/golang/protobuf/proto/text_parser.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/.gitignore" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/.travis.yml" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/AUTHORS" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/AUTHORS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/LICENSE" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/README.md" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/client.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/client.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/client_clone.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/client_clone.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/client_clone_legacy.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/client_clone_legacy.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/compression.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/compression.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/conn.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/conn.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/conn_read.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/conn_read.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/conn_read_legacy.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/conn_read_legacy.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/doc.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/doc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/json.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/json.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/mask.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/mask.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/mask_safe.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/mask_safe.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/prepared.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/prepared.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/server.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/server.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/util.go" afterPath="$PROJECT_DIR$/../vendor/github.com/gorilla/websocket/util.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/.travis.yml" afterPath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/LICENSE" afterPath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/README.md" afterPath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/sse-decoder.go" afterPath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/sse-decoder.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/sse-encoder.go" afterPath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/sse-encoder.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/writer.go" afterPath="$PROJECT_DIR$/../vendor/github.com/manucorporat/sse/writer.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/.travis.yml" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/LICENSE" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/README.md" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/doc.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/doc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_appengine.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_appengine.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_bsd.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_bsd.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_linux.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_linux.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_others.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_others.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_solaris.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_solaris.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_windows.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mattn/go-isatty/isatty_windows.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/.gitignore" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/.travis.yml" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/AUTHORS" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/AUTHORS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/CHANGELOG.md" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/LICENSE" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/README.md" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/appengine.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/appengine.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/buffer.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/buffer.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/collations.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/collations.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/connection.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/connection.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/const.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/const.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/driver.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/driver.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/dsn.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/dsn.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/errors.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/errors.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/infile.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/infile.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/packets.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/packets.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/result.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/result.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/rows.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/rows.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/statement.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/statement.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/transaction.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/transaction.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/github.com/mysql/utils.go" afterPath="$PROJECT_DIR$/../vendor/github.com/mysql/utils.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/.gitignore" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/LICENSE" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/README.md" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/baked_in.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/baked_in.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/cache.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/cache.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/doc.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/doc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/regexes.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/regexes.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/util.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/util.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/validator.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/go-playground/validator.v8/validator.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/.travis.yml" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/LICENSE" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/LICENSE.libyaml" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/LICENSE.libyaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/README.md" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/apic.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/apic.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/decode.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/decode.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/emitterc.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/emitterc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/encode.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/encode.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/parserc.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/parserc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/readerc.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/readerc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/resolve.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/resolve.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/scannerc.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/scannerc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/sorter.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/sorter.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/writerc.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/writerc.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/yaml.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/yaml.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/yamlh.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/yamlh.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/yamlprivateh.go" afterPath="$PROJECT_DIR$/../vendor/gopkg.in/yaml.v2/yamlprivateh.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../word_utils.go" afterPath="$PROJECT_DIR$/../word_utils.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -186,18 +35,18 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="122" column="49" lean-forward="true" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
+            <state relative-caret-position="513">
+              <caret line="235" column="41" lean-forward="true" selection-start-line="235" selection-start-column="41" selection-end-line="235" selection-end-column="41" />
               <folding>
-                <marker date="1496412421087" expanded="true" signature="723:729" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="2798:2804" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="4229:4235" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="4868:4874" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="5679:5685" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="7273:7279" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="7919:7925" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="8959:8965" ph=" " />
-                <marker date="1496412421087" expanded="true" signature="9418:9424" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="723:729" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="2798:2804" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="4229:4235" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="4868:4874" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="5679:5685" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="7275:7281" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="7923:7929" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="8963:8969" ph=" " />
+                <marker date="1496413054263" expanded="true" signature="9422:9428" ph=" " />
               </folding>
             </state>
           </provider>
@@ -413,12 +262,12 @@
       <workItem from="1494073553992" duration="79943000" />
       <workItem from="1494700465720" duration="7409000" />
       <workItem from="1496411202562" duration="398000" />
-      <workItem from="1496411902826" duration="550000" />
+      <workItem from="1496411902826" duration="1148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88300000" />
+    <option name="totallyTimeSpent" value="88898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1440" height="870" extended-state="6" />
@@ -476,15 +325,15 @@
         <state relative-caret-position="688">
           <caret line="43" column="10" lean-forward="false" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
           <folding>
-            <marker date="1496412421087" expanded="true" signature="723:729" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="2798:2804" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4229:4235" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4868:4874" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="5679:5685" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7273:7279" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7919:7925" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="8959:8965" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="9418:9424" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="723:729" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="2798:2804" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4229:4235" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4868:4874" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="5679:5685" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7275:7281" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7923:7929" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="8963:8969" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="9422:9428" ph=" " />
           </folding>
         </state>
       </provider>
@@ -512,15 +361,15 @@
         <state relative-caret-position="128">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
-            <marker date="1496412421087" expanded="true" signature="723:729" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="2798:2804" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4229:4235" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4868:4874" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="5679:5685" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7273:7279" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7919:7925" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="8959:8965" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="9418:9424" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="723:729" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="2798:2804" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4229:4235" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4868:4874" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="5679:5685" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7275:7281" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7923:7929" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="8963:8969" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="9422:9428" ph=" " />
           </folding>
         </state>
       </provider>
@@ -540,15 +389,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1496412421087" expanded="true" signature="723:729" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="2798:2804" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4229:4235" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4868:4874" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="5679:5685" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7273:7279" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7919:7925" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="8959:8965" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="9418:9424" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="723:729" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="2798:2804" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4229:4235" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4868:4874" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="5679:5685" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7275:7281" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7923:7929" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="8963:8969" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="9422:9428" ph=" " />
           </folding>
         </state>
       </provider>
@@ -597,18 +446,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="122" column="49" lean-forward="true" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
+        <state relative-caret-position="513">
+          <caret line="235" column="41" lean-forward="true" selection-start-line="235" selection-start-column="41" selection-end-line="235" selection-end-column="41" />
           <folding>
-            <marker date="1496412421087" expanded="true" signature="723:729" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="2798:2804" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4229:4235" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="4868:4874" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="5679:5685" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7273:7279" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="7919:7925" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="8959:8965" ph=" " />
-            <marker date="1496412421087" expanded="true" signature="9418:9424" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="723:729" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="2798:2804" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4229:4235" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="4868:4874" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="5679:5685" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7275:7281" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="7923:7929" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="8963:8969" ph=" " />
+            <marker date="1496413054263" expanded="true" signature="9422:9428" ph=" " />
           </folding>
         </state>
       </provider>

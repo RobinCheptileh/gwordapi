@@ -218,7 +218,7 @@ function initWebSocket() {
     socket.onclose = function () {
         console.log("WebSocket closed");
 
-        var notification = $("<div>")
+        /*var notification = $("<div>")
             .attr({
                 class : "notification"
             })
@@ -233,7 +233,7 @@ function initWebSocket() {
                 duration : 200,
                 easing : "ease-in-out"
             });
-        $("body").append(notification);
+        $("body").append(notification);*/
 
         $letters.attr({
             disabled : false
