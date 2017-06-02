@@ -2,8 +2,158 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed4202f4-9b65-487f-af96-0fc2d18909a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Go_SDK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__GwordAPI_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__GwordAPI_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GwordAPI.iml" afterPath="$PROJECT_DIR$/GwordAPI.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary.go" afterPath="$PROJECT_DIR$/dictionary.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routers.go" afterPath="$PROJECT_DIR$/routers.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/.idea/dictionaries/Robin_Cheptileh.xml" afterPath="$PROJECT_DIR$/templates/.idea/dictionaries/Robin_Cheptileh.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/.idea/workspace.xml" afterPath="$PROJECT_DIR$/templates/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/css/app.css" afterPath="$PROJECT_DIR$/templates/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/img/gopher.svg" afterPath="$PROJECT_DIR$/templates/img/gopher.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/js/app.js" afterPath="$PROJECT_DIR$/templates/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/.gitignore" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/.travis.yml" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/AUTHORS.md" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/AUTHORS.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/BENCHMARKS.md" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/BENCHMARKS.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/LICENSE" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/README.md" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/auth.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/auth.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/binding.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/binding.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/default_validator.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/default_validator.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/form.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/form.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/form_mapping.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/form_mapping.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/json.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/json.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/protobuf.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/protobuf.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/xml.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/binding/xml.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/codecov.yml" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/codecov.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/context.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/context.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/debug.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/debug.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/deprecated.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/deprecated.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/errors.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/errors.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/fs.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/fs.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/gin.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/gin.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/logger.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/logger.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/mode.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/mode.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/path.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/path.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/recovery.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/recovery.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/data.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/data.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/html.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/html.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/json.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/json.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/redirect.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/redirect.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/render.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/render.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/text.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/text.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/xml.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/xml.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/yaml.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/render/yaml.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/response_writer.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/response_writer.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/routergroup.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/routergroup.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/tree.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/tree.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/utils.go" afterPath="$PROJECT_DIR$/vendor/github.com/gin-gonic/gin/utils.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/AUTHORS" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/CONTRIBUTORS" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/CONTRIBUTORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/LICENSE" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/Makefile" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/clone.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/clone.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/decode.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/decode.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/equal.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/equal.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/extensions.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/extensions.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_reflect.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_reflect.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.gitignore" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.travis.yml" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/AUTHORS" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/LICENSE" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/README.md" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone_legacy.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/client_clone_legacy.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/compression.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/compression.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read_legacy.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/conn_read_legacy.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/doc.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/doc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/json.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/json.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/mask.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/mask.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/mask_safe.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/mask_safe.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/prepared.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/prepared.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/server.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/server.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/util.go" afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/websocket/util.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/.travis.yml" afterPath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/LICENSE" afterPath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/README.md" afterPath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/sse-decoder.go" afterPath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/sse-decoder.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/sse-encoder.go" afterPath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/sse-encoder.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/writer.go" afterPath="$PROJECT_DIR$/vendor/github.com/manucorporat/sse/writer.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/.travis.yml" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/LICENSE" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/README.md" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/doc.go" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/doc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_appengine.go" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_appengine.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_bsd.go" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_bsd.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_linux.go" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_linux.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_others.go" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_others.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_solaris.go" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_solaris.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_windows.go" afterPath="$PROJECT_DIR$/vendor/github.com/mattn/go-isatty/isatty_windows.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/.gitignore" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/.travis.yml" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/AUTHORS" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/LICENSE" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/README.md" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/appengine.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/appengine.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/buffer.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/buffer.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/collations.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/collations.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/connection.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/connection.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/const.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/const.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/driver.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/driver.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/dsn.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/dsn.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/errors.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/errors.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/infile.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/infile.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/packets.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/packets.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/result.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/result.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/rows.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/rows.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/statement.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/statement.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/transaction.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/transaction.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/github.com/mysql/utils.go" afterPath="$PROJECT_DIR$/vendor/github.com/mysql/utils.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/.gitignore" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/LICENSE" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/README.md" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/baked_in.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/baked_in.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/cache.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/cache.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/doc.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/doc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/regexes.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/regexes.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/util.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/util.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/validator.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/go-playground/validator.v8/validator.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/.travis.yml" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/LICENSE" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/LICENSE.libyaml" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/LICENSE.libyaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/README.md" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/emitterc.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/emitterc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/encode.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/encode.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/parserc.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/parserc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/readerc.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/readerc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/resolve.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/resolve.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/sorter.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/sorter.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/writerc.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/writerc.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yaml.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yaml.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlh.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlh.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlprivateh.go" afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlprivateh.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/word_utils.go" afterPath="$PROJECT_DIR$/word_utils.go" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +169,69 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <marker date="1496412421087" expanded="true" signature="8174:8182" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="8174:8205" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="8277:9246" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="8302:8471" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="8362:8459" ph="{&quot;Letters&quot;: &quot;stop&quot;...}" />
+                <marker date="1496412421087" expanded="true" signature="8477:9241" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="8556:8637" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+                <marker date="1496412421087" expanded="true" signature="8697:8741" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="8767:8811" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="8959:8965" ph="&amp;nbsp;" />
+                <marker date="1496412421087" expanded="true" signature="9061:9198" ph="{...}" />
+                <marker date="1496412421087" expanded="true" signature="9306:9358" ph="{&quot;class&quot;: &quot;notification&quot;...}" />
+                <marker date="1496412421087" expanded="true" signature="9418:9424" ph="&amp;nbsp;" />
+                <marker date="1496412421087" expanded="true" signature="9542:9625" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+                <marker date="1496412421087" expanded="true" signature="9675:9787" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="544">
+              <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
               <folding>
                 <element signature="e#14#52#0" expanded="true" />
               </folding>
@@ -34,13 +239,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routers.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="routers.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routers.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="600">
+              <caret line="117" column="46" lean-forward="true" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="46" />
               <folding>
                 <element signature="e#14#179#0" expanded="true" />
+                <marker date="1494922748190" expanded="true" signature="1374:1442" ph="INSERT requests... " />
               </folding>
             </state>
           </provider>
@@ -49,7 +255,7 @@
       <file leaf-file-name="word_utils.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word_utils.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="160">
               <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="e#14#128#0" expanded="true" />
@@ -88,8 +294,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/word_utils.go" />
+        <option value="$PROJECT_DIR$/templates/js/app.js" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/css/app.css" />
         <option value="$PROJECT_DIR$/routers.go" />
         <option value="$PROJECT_DIR$/main.go" />
       </list>
@@ -102,10 +310,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="886" />
+    <option name="y" value="30" />
+    <option name="width" value="1440" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -122,8 +329,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -136,8 +341,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GwordAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GwordAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GwordAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GwordAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -153,232 +392,33 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Robin Cheptileh\go\src\GwordAPI" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Go Application.Run Application Package">
     <configuration default="false" name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GwordAPI" />
       <working_directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/main.go" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
@@ -401,73 +441,6 @@
       <kind value="DIRECTORY" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -475,110 +448,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="GwordAPI" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <classRegexps />
-      <testRegexps />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <classRegexps />
-      <testRegexps />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -594,42 +463,6 @@
       <command value="run" />
       <scripts />
       <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <classRegexps />
-      <testRegexps />
       <envs />
       <method />
     </configuration>
@@ -669,45 +502,46 @@
       <workItem from="1493925471976" duration="5147000" />
       <workItem from="1494175305640" duration="46914000" />
       <workItem from="1494698635344" duration="6522000" />
-      <workItem from="1494770254172" duration="11213000" />
+      <workItem from="1494770254172" duration="25429000" />
+      <workItem from="1496253685362" duration="471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69796000" />
+    <option name="totallyTimeSpent" value="84483000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <frame x="0" y="30" width="1440" height="870" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.260745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,6 +555,219 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1496412421087" expanded="true" signature="8174:8182" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8174:8205" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8277:9246" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8302:8471" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8362:8459" ph="{&quot;Letters&quot;: &quot;stop&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8477:9241" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8556:8637" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8697:8741" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8767:8811" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8959:8965" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9061:9198" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="9306:9358" ph="{&quot;class&quot;: &quot;notification&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9418:9424" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9542:9625" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9675:9787" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1888">
+          <caret line="118" column="16" lean-forward="true" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#179#0" expanded="true" />
+            <marker date="1494922748190" expanded="true" signature="1374:1442" ph="INSERT requests... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1496412421087" expanded="true" signature="8174:8182" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8174:8205" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8277:9246" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8302:8471" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8362:8459" ph="{&quot;Letters&quot;: &quot;stop&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8477:9241" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8556:8637" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8697:8741" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8767:8811" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8959:8965" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9061:9198" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="9306:9358" ph="{&quot;class&quot;: &quot;notification&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9418:9424" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9542:9625" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9675:9787" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#179#0" expanded="true" />
+            <marker date="1494922748190" expanded="true" signature="1374:1442" ph="INSERT requests... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1496412421087" expanded="true" signature="8174:8182" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8174:8205" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8277:9246" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8302:8471" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8362:8459" ph="{&quot;Letters&quot;: &quot;stop&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8477:9241" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8556:8637" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8697:8741" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8767:8811" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8959:8965" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9061:9198" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="9306:9358" ph="{&quot;class&quot;: &quot;notification&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9418:9424" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9542:9625" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9675:9787" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#179#0" expanded="true" />
+            <marker date="1494922748190" expanded="true" signature="1374:1442" ph="INSERT requests... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -737,6 +784,7 @@
           <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="e#14#179#0" expanded="true" />
+            <marker date="1494922748190" expanded="true" signature="1374:1442" ph="INSERT requests... " />
           </folding>
         </state>
       </provider>
@@ -793,17 +841,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="95" column="14" lean-forward="false" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../github.com/gorilla/websocket/examples/echo/server.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-199">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1496412421087" expanded="true" signature="8174:8182" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8174:8205" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8277:9246" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8302:8471" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8362:8459" ph="{&quot;Letters&quot;: &quot;stop&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8477:9241" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8556:8637" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="8697:8741" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8767:8811" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="8959:8965" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9061:9198" ph="{...}" />
+            <marker date="1496412421087" expanded="true" signature="9306:9358" ph="{&quot;class&quot;: &quot;notification&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9418:9424" ph="&amp;nbsp;" />
+            <marker date="1496412421087" expanded="true" signature="9542:9625" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+            <marker date="1496412421087" expanded="true" signature="9675:9787" ph="{&quot;easing&quot;: &quot;ease-in-out&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +889,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word_utils.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="160">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="e#14#128#0" expanded="true" />
@@ -824,22 +897,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.go">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding>
-            <element signature="e#14#52#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="208">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routers.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="600">
+          <caret line="117" column="46" lean-forward="true" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="46" />
           <folding>
             <element signature="e#14#179#0" expanded="true" />
+            <marker date="1494922748190" expanded="true" signature="1374:1442" ph="INSERT requests... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -31,8 +31,8 @@ type api_response struct {
 	Found bool `json:"found"`
 }
 
-const DSN  = "cognitio_robin:R+XNT?OTE4iBt;Z#;E@tcp(cognition.co.ke:3306)/cognitio_gword?charset=utf8"
-//const DSN  = "Robin:90210@tcp(robin.local:3306)/cognitio_gword?charset=utf8"
+//const DSN  = "cognitio_robin:R+XNT?OTE4iBt;Z#;E@tcp(cognition.co.ke:3306)/cognitio_gword?charset=utf8"
+const DSN  = "Robin:90210@tcp(robin.local:3306)/cognitio_gword?charset=utf8"
 
 func apihandler(c *gin.Context){
 	//Connect to the database
@@ -47,28 +47,35 @@ func apihandler(c *gin.Context){
 	stop := make(chan bool)
 	found := false
 	typ := "api"
-	let := c.Query("letters")
-	lim, err := strconv.Atoi(c.Query("limit"))
-	checkErr(err)
+	if len(c.Query("letters")) > 0 && len(c.Query("limit")) > 0 {
+		let := c.Query("letters")
+		lim, err := strconv.Atoi(c.Query("limit"))
+		if err != nil{
+			c.JSON(http.StatusBadRequest, gin.H{"status" : "bad request"})
+			return
+		}
 
-	req := request{let, lim, false}
-	words := apiWordGenerator(req, stop)
+		req := request{let, lim, false}
+		words := apiWordGenerator(req, stop)
 
-	if len(words) > 0 {
-		found = true
+		if len(words) > 0 {
+			found = true
+		}
+
+		api_resp := api_response{req.Letters, req.Limit, words, found}
+		// insert
+		stmt, err := db.Prepare("INSERT requests SET request_type=?,letters=?,letters_limit=?,found=?")
+		checkErr(err)
+		res, err := stmt.Exec(typ, let, lim, strconv.FormatBool(found))
+		checkErr(err)
+		id, err := res.LastInsertId()
+		checkErr(err)
+		fmt.Println(id)
+
+		c.JSON(http.StatusOK, api_resp)
+	}else{
+		c.JSON(http.StatusBadRequest, gin.H{"status" : "bad request"})
 	}
-
-	api_resp := api_response{req.Letters, req.Limit, words, found}
-	// insert
-	stmt, err := db.Prepare("INSERT requests SET request_type=?,letters=?,letters_limit=?,found=?")
-	checkErr(err)
-	res, err := stmt.Exec(typ, let, lim, strconv.FormatBool(found))
-	checkErr(err)
-	id, err := res.LastInsertId()
-	checkErr(err)
-	fmt.Println(id)
-
-	c.JSON(http.StatusOK, api_resp)
 }
 
 func wshandler(w http.ResponseWriter, r *http.Request) {
