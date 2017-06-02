@@ -114,8 +114,8 @@ function initWebSocket() {
 
     socket.onopen = function () {
         console.log("WebSocket ready");
-        if(rc){
-            clearTimeout(rc);
+        if(window.rc){
+            clearTimeout(window.rc);
         }
     };
 
@@ -255,9 +255,9 @@ function initWebSocket() {
         scrolled = false;
         inProgress = false;
 
-        if(!rc){
+        if(!window.rc){
             console.log("Retrying to connect");
-            rc = setTimeout(function () {
+            window.rc = setTimeout(function () {
                 ws = initWebSocket();
                 enabled = true;
             }, 3000);

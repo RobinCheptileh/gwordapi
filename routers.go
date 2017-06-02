@@ -31,7 +31,8 @@ type api_response struct {
 	Found bool `json:"found"`
 }
 
-const DSN  = "Username:password@tcp(address:3306)/database?charset=utf8"
+//const DSN  = "cognitio_robin:R+XNT?OTE4iBt;Z#;E@tcp(cognition.co.ke:3306)/cognitio_gword?charset=utf8"
+const DSN  = "Robin:90210@tcp(robin.local:3306)/cognitio_gword?charset=utf8"
 
 func apihandler(c *gin.Context){
 	//Connect to the database
