@@ -250,8 +250,10 @@ function initWebSocket() {
         scroll_count = 1;
         scrolled = false;
         inProgress = false;
-
-        socket = new WebSocket(url);
+    
+        ws = initWebSocket();
+        console.log("WebSocket initiated");
+        enabled = true;
     };
 
     return socket;
