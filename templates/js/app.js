@@ -143,7 +143,7 @@ function initWebSocket() {
                         delay : 2000,
                         duration : 200,
                         easing : "ease-in-out"
-                    });
+                    });href="https://www.cognition.co.ke" class="cognition" target="_blank"
             }else{
                 notification = $("<div>")
                     .attr({
@@ -251,9 +251,7 @@ function initWebSocket() {
         scrolled = false;
         inProgress = false;
 
-        ws = initWebSocket();
-        console.log("WebSocket initiated");
-        enabled = true;
+        socket = new WebSocket(url);
     };
 
     return socket;
