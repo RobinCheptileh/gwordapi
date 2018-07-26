@@ -27,10 +27,10 @@ func main() {
 	router.GET("/", index)
 
 	router.GET("/ws", func(c *gin.Context) {
-		wshandler(c.Writer, c.Request)
+		wsHandler(c.Writer, c.Request)
 	})
 
-	router.GET("/api/v1/generate", apihandler)
+	router.GET("/api/v1/generate", apiHandler)
 
 	// Start serving the application
 	router.Run()

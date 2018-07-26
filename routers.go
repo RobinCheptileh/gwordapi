@@ -11,30 +11,30 @@ import (
 	"database/sql"
 	_ "github.com/mysql"
 	"strconv"
+	"os"
 )
 
-var wsupgrader = websocket.Upgrader{
-	ReadBufferSize: 1024,
+var wsUpgrader = websocket.Upgrader{
+	ReadBufferSize:  1024,
 	WriteBufferSize: 1024,
 }
 
 type request struct {
 	Letters string
-	Limit int
-	Stop bool
+	Limit   int
+	Stop    bool
 }
 
-type api_response struct {
-	Letters string `json:"letters"`
-	Limit int `json:"limit"`
-	Words []string `json:"words"`
-	Found bool `json:"found"`
+type apiResponse struct {
+	Letters string   `json:"letters"`
+	Limit   int      `json:"limit"`
+	Words   []string `json:"words"`
+	Found   bool     `json:"found"`
 }
 
-const DSN  = "cognitio_robin:R+XNT?OTE4iBt;Z#;E@tcp(cognition.co.ke:3306)/cognitio_gword?charset=utf8"
-//const DSN  = "Robin:90210@tcp(robin.local:3306)/cognitio_gword?charset=utf8"
+var DSN = fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8", os.Getenv("DB_USER"), os.Getenv("DB_PASSWORD"), os.Getenv("DB_HOST"), os.Getenv("DB_PORT"), os.Getenv("DB_NAME"))
 
-func apihandler(c *gin.Context){
+func apiHandler(c *gin.Context) {
 	//Connect to the database
 	db, err := sql.Open("mysql", DSN)
 	checkErr(err)
@@ -50,8 +50,8 @@ func apihandler(c *gin.Context){
 	if len(c.Query("letters")) > 0 && len(c.Query("limit")) > 0 {
 		let := c.Query("letters")
 		lim, err := strconv.Atoi(c.Query("limit"))
-		if err != nil{
-			c.JSON(http.StatusBadRequest, gin.H{"status" : "bad request"})
+		if err != nil {
+			c.JSON(http.StatusBadRequest, gin.H{"status": "bad request"})
 			return
 		}
 
@@ -62,7 +62,7 @@ func apihandler(c *gin.Context){
 			found = true
 		}
 
-		api_resp := api_response{req.Letters, req.Limit, words, found}
+		apiResp := apiResponse{req.Letters, req.Limit, words, found}
 		// insert
 		stmt, err := db.Prepare("INSERT requests SET request_type=?,letters=?,letters_limit=?,found=?")
 		checkErr(err)
@@ -72,14 +72,14 @@ func apihandler(c *gin.Context){
 		checkErr(err)
 		fmt.Println(id)
 
-		c.JSON(http.StatusOK, api_resp)
-	}else{
-		c.JSON(http.StatusBadRequest, gin.H{"status" : "bad request"})
+		c.JSON(http.StatusOK, apiResp)
+	} else {
+		c.JSON(http.StatusBadRequest, gin.H{"status": "bad request"})
 	}
 }
 
-func wshandler(w http.ResponseWriter, r *http.Request) {
-	conn, err := wsupgrader.Upgrade(w, r, nil)
+func wsHandler(w http.ResponseWriter, r *http.Request) {
+	conn, err := wsUpgrader.Upgrade(w, r, nil)
 	checkErr(err)
 	fmt.Println("Websocket Initiated")
 	defer conn.Close()
@@ -93,11 +93,11 @@ func wshandler(w http.ResponseWriter, r *http.Request) {
 		checkErr(err)
 		fmt.Println(message)
 
-		if message.Stop{
+		if message.Stop {
 			fmt.Println("Trying to stop")
 			stop <- true
 			wg.Wait()
-		}else{
+		} else {
 			message.Letters = strings.ToLower(message.Letters)
 			fmt.Println(message.Letters)
 			fmt.Println(message.Limit)
@@ -108,10 +108,7 @@ func wshandler(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func index(c *gin.Context){
-	//names := []string{"Robin", "Perez", "Robie", "Robyn", "Cheptileh", "Adhiambo", "Pretty"}
-	//name := names[rand.Intn(len(names))]
-	// Call the HTML method of the Context to render a template
+func index(c *gin.Context) {
 	c.HTML(
 		// Set the HTTP status to 200 (OK)
 		http.StatusOK,
@@ -119,8 +116,8 @@ func index(c *gin.Context){
 		"index.html",
 		// Pass the data that the page uses (in this case, 'title')
 		gin.H{
-			"name" : "Robin Cheptileh",
-			"year" : time.Now().Year(),
+			"name": "Robin Cheptileh",
+			"year": time.Now().Year(),
 		},
 	)
 }

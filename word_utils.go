@@ -18,7 +18,7 @@ type done struct {
 	Done bool
 }
 
-func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sync.WaitGroup)  {
+func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sync.WaitGroup) {
 	//Connect to the database
 	db, err := sql.Open("mysql", DSN)
 	checkErr(err)
@@ -30,8 +30,8 @@ func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sy
 	defer wg.Done()
 	defer track(time.Now(), "wordGenerator()")
 
-	var temp_word string
-	var temp_list []string
+	var tempWord string
+	var tempList []string
 	found := false
 	typ := "site"
 
@@ -40,18 +40,18 @@ func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sy
 
 		select {
 		default:
-			temp_word = getPermutation(message.Letters, message.Limit, i)
-			if isInDictionary(temp_word){
+			tempWord = getPermutation(message.Letters, message.Limit, i)
+			if isInDictionary(tempWord) {
 				found := false
-				for _, v := range temp_list{
-					if v == temp_word{
+				for _, v := range tempList {
+					if v == tempWord {
 						found = true
 					}
 				}
-				if !found{
-					temp_list = append(temp_list, temp_word)
-					fmt.Println(temp_word)
-					word := response{temp_word}
+				if !found {
+					tempList = append(tempList, tempWord)
+					fmt.Println(tempWord)
+					word := response{tempWord}
 					err := conn.WriteJSON(word)
 					if err != nil {
 						return
@@ -59,14 +59,14 @@ func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sy
 				}
 			}
 
-		case <- stop:
+		case <-stop:
 			fmt.Println("Stopped")
 			don := done{true}
-			err :=  conn.WriteJSON(don)
+			err := conn.WriteJSON(don)
 			if err != nil {
 				return
 			}
-			if len(temp_list) > 0 {
+			if len(tempList) > 0 {
 				found = true
 			}
 			stmt, err := db.Prepare("INSERT requests SET request_type=?,letters=?,letters_limit=?,found=?")
@@ -82,11 +82,11 @@ func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sy
 
 	fmt.Println("Done!")
 	don := done{true}
-	err =  conn.WriteJSON(don)
+	err = conn.WriteJSON(don)
 	if err != nil {
 		return
 	}
-	if len(temp_list) > 0 {
+	if len(tempList) > 0 {
 		found = true
 	}
 	stmt, err := db.Prepare("INSERT requests SET request_type=?,letters=?,letters_limit=?,found=?")
@@ -101,48 +101,48 @@ func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sy
 func apiWordGenerator(message request, stop chan bool) ([]string) {
 	defer track(time.Now(), "wordGenerator()")
 
-	var temp_word string
-	var temp_list []string
+	var tempWord string
+	var tempList []string
 
 	fmt.Println(getPermutationCount(message.Letters, message.Limit))
 	for i := 0; i < getPermutationCount(message.Letters, message.Limit); i++ {
 
 		select {
 		default:
-			temp_word = getPermutation(message.Letters, message.Limit, i)
-			if isInDictionary(temp_word){
+			tempWord = getPermutation(message.Letters, message.Limit, i)
+			if isInDictionary(tempWord) {
 				found := false
-				for _, v := range temp_list{
-					if v == temp_word{
+				for _, v := range tempList {
+					if v == tempWord {
 						found = true
 					}
 				}
-				if !found{
-					temp_list = append(temp_list, temp_word)
-					fmt.Println(temp_word)
+				if !found {
+					tempList = append(tempList, tempWord)
+					fmt.Println(tempWord)
 				}
 			}
 
-		case <- stop:
+		case <-stop:
 			fmt.Println("Stopped")
-			return temp_list
+			return tempList
 		}
 	}
 
 	fmt.Println("Done!")
-	return temp_list
+	return tempList
 }
 
 func getPermutationCount(letters string, count int) (int) {
 	result := 1
 	//k characters from a set of n has n!/(n-k)! possible combinations
 	for i := len(letters) - count + 1; i <= len(letters); i++ {
-		result *= i;
+		result *= i
 	}
 	return result
 }
 
-func getPermutation(letters string, count int, index int) (string){
+func getPermutation(letters string, count int, index int) (string) {
 	result := ""
 	//Decodes index to a $count-length string from $letters, no repeat chars.
 	i := 0

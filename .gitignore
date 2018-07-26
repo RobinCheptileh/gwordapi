@@ -1,0 +1,7 @@
+.idea
+projectFilesBackup
+projectFilesBackup1
+vendor
+gword.sql
+*.iml
+.env
