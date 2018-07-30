@@ -19,6 +19,9 @@ type done struct {
 }
 
 func wordGenerator(conn *websocket.Conn, message request, stop chan bool, wg *sync.WaitGroup) {
+	// Print DSN URL
+	fmt.Println(DSN)
+
 	//Connect to the database
 	db, err := sql.Open("mysql", DSN)
 	checkErr(err)

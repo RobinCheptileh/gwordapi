@@ -2,7 +2,6 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"fmt"
 )
 
 var router *gin.Engine
@@ -35,7 +34,4 @@ func main() {
 
 	// Start serving the application
 	router.Run()
-
-	// Print DSN URL
-	fmt.Println(DSN)
 }
