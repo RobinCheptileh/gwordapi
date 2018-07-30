@@ -3,4 +3,4 @@ projectFilesBackup
 projectFilesBackup1
 gword.sql
 *.iml
-#.env
+.env
